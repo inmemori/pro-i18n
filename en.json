@@ -1,1 +1,62 @@
-{}
+{
+
+  "menu": {
+      "home": "Home"
+    , "tips": "Tips"
+    , "tips-link": "https://www.notion.so/inmemori/InMemori-Acad-mie-64fdc714efe64249aa3ddda8728d2e7a"
+    , "demo": "Sample site"
+    , "demo-link": "https://www.inmemori.com/jpaladi"
+    , "video": "Presentation video"
+    , "video-id": "XQ2RdK1RzHI"
+  },
+
+  "common": {
+      "name": "Name"
+    , "author": "Author"
+    , "family": "Family"
+    , "identifier": "Username"
+    , "password": "Password"
+  },
+
+  "err": {
+      "login": "Incorrect username or password."
+  },
+
+  "auth": {
+      "name": "Name"
+    , "tagline": ""
+  },
+
+  "home": {
+      "podium": "Page creation podium"
+    , "quotes": [
+        "I really wanted to thank you for your site and the service provided: elegant, simple and effective, it has brought us much comfort in this difficult period."
+      ]
+    , "carousel": [
+          [ "lightbulb", "Read all \nour tips||https://www.google.com", "Un espace a 3 fois plus de chance d’être utilisé si InMemori est présenté en rdv." ]
+        , [ "heartbeat", "", "Lorem Ipsum is the standard printing text since the 1500." ]
+        , [ "wallet",  "", "Contrary to popular belief, Lorem Ipsum is not just random text." ]
+      ]
+  },
+
+  "pages-list": {
+      "info": "Vous ne trouvez pas ici un espace que vous avez créé ?\nCela signifie que la famille n’a pas souhaité se servir d’InMemori."
+    , "cta-open-page": "See page"
+    , "th": {
+          "name": "Name"
+        , "author": "Author"
+        , "family": "Family"
+        , "memories": "Number of\nmessages"
+        , "views": "People\nreached"
+        , "cat": "Creation\ndate"
+      }
+  },
+
+  "stats-bar": [
+      "Families\nsupported"
+    , "Messages\nshared"
+    , "People\ntouched"
+  ]
+
+
+}

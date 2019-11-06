@@ -12,7 +12,7 @@
 
   "common": {
       "name": "Nombre"
-    , "author": "Autor"
+    , "author": "Consejero"
     , "family": "Familia"
     , "identifier": "Iniciar sesión"
     , "password": "Contraseña"
@@ -44,7 +44,7 @@
     , "cta-open-page": "Ver la página"
     , "th": {
           "name": "Nombre"
-        , "author": "Autor"
+        , "author": "Consejero"
         , "family": "Familia"
         , "memories": "Número de\nmensajes"
         , "views": "Número de\npersonas"

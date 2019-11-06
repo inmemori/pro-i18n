@@ -1,9 +1,9 @@
 {
 
   "menu": {
-      "home": "Acceuil"
+      "home": "Accueil"
     , "tips": "Astuces"
-    , "tips-link": "https://www.notion.so/inmemori/4c6d91fc2fc947c58c593deb982ae9b5?v=6b6776e200c341d09964c4860efc5f20"
+    , "tips-link": "https://www.notion.so/inmemori/InMemori-Acad-mie-64fdc714efe64249aa3ddda8728d2e7a"
     , "demo": "Espace d'exemple"
     , "demo-link": "https://www.inmemori.com/mdarricourt-e73qk"
     , "video": "Vidéo de présentation"
@@ -24,7 +24,7 @@
 
   "auth": {
       "name": "Nom"
-    , "tagline": "Partenaire d'Inmemori depuis juillet 2018"
+    , "tagline": "Partenaire d'InMemori depuis juillet 2018"
   },
 
   "home": {
@@ -37,7 +37,6 @@
         , [ "heartbeat", "", "Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500" ]
         , [ "wallet",  "", "Contrairement à une opinion répandue, le Lorem Ipsum n'est pas simplement du texte aléatoire." ]
       ]
-
   },
 
   "pages-list": {

@@ -40,7 +40,7 @@
   },
 
   "pages-list": {
-      "info": "Vous ne trouvez pas ici un espace que vous avez créé ?\nCela signifie que la famille n’a pas souhaité se servir d’InMemori."
+      "info": "Can't find a space you created?\nThis means that the family decided not to use InMemori."
     , "cta-open-page": "See page"
     , "th": {
           "name": "Name"

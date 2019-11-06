@@ -28,21 +28,21 @@
   },
 
   "home": {
-    "quotes": [
-      "Je tenais vraiment à vous remercier pour votre site et le service rendu : sobre, simple et efficace, il a apporté énormément de bien à la famille et aux proches de notre ami qui est parti."
-    ],
+      "podium": "Podium de la création d'espace"
+    , "quotes": [
+        "Je tenais vraiment à vous remercier pour votre site et le service rendu : sobre, simple et efficace, il a apporté énormément de bien à la famille et aux proches de notre ami qui est parti."
+      ]
+    , "carousel": [
+          [ "lightbulb", "Lire tous\nnos conseils||https://www.google.com", "Un espace a 3 fois plus de chance d’être utilisé si InMemori est présenté en rdv." ]
+        , [ "heartbeat", "", "Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500" ]
+        , [ "wallet",  "", "Contrairement à une opinion répandue, le Lorem Ipsum n'est pas simplement du texte aléatoire." ]
+      ]
 
-    "carousel": [
-        [ "lightbulb", "Lire tous\nnos conseils||https://www.google.com", "Un espace a 3 fois plus de chance d’être utilisé si InMemori est présenté en rdv." ]
-      , [ "heartbeat", "", "Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500" ]
-      , [ "wallet",  "", "Contrairement à une opinion répandue, le Lorem Ipsum n'est pas simplement du texte aléatoire." ]
-    ],
-
-    "podium": "Podium de la création d'espace"
   },
 
   "pages-list": {
-      "cta-open-page": "Voir l'espace"
+      "info": "Vous ne trouvez pas ici un espace que vous avez créé ?\nCela signifie que la famille n’a pas souhaité se servir d’InMemori."
+    , "cta-open-page": "Voir l'espace"
     , "th": {
           "name": "Nom"
         , "author": "Auteur"

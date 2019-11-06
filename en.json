@@ -33,9 +33,9 @@
         "I really wanted to thank you for your site and the service provided: elegant, simple and effective, it has brought us much comfort in this difficult period."
       ]
     , "carousel": [
-          [ "lightbulb", "Read all \nour tips||https://www.google.com", "Un espace a 3 fois plus de chance d’être utilisé si InMemori est présenté en rdv." ]
-        , [ "heartbeat", "", "Lorem Ipsum is the standard printing text since the 1500." ]
-        , [ "wallet",  "", "Contrary to popular belief, Lorem Ipsum is not just random text." ]
+          [ "lightbulb", "Read all \nour tips||https://www.google.com", "Presenting InMemori during an appointment makes it 3 times more likely to be used." ]
+        , [ "heartbeat", "", "Show the sample page to help the family understand InMemori." ]
+        , [ "wallet",  "", "Remind the family that they will be called by InMemori support team." ]
       ]
   },
 

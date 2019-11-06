@@ -46,8 +46,8 @@
           "name": "Nombre"
         , "author": "Consejero"
         , "family": "Familia"
-        , "memories": "Número de\nmensajes"
-        , "views": "Número de\npersonas"
+        , "memories": "Mensajes"
+        , "views": "Personas \ntocadas"
         , "cat": "Fecha\nde creación"
       }
   },

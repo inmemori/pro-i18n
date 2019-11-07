@@ -34,8 +34,8 @@
       ]
     , "carousel": [
           [ "lightbulb", "Lire tous\nnos conseils||https://www.notion.so/inmemori/InMemori-Acad-mie-64fdc714efe64249aa3ddda8728d2e7a", "Un espace a 3 fois plus de chance d’être utilisé si InMemori est présenté en rdv." ]
-        , [ "heartbeat", "", "Rassurez vos familles en leur précisant que notre équipe support les appelera bientôt." ]
-        , [ "wallet",  "", "Vous pouvez vous servir de l'espace fictif de démonstration pour présenter InMemori à vos familles en entretien." ]
+        , [ "lightbulb", "", "Rassurez vos familles en leur précisant que notre équipe support les appelera bientôt." ]
+        , [ "lightbulb",  "", "Vous pouvez vous servir de l'espace fictif de démonstration pour présenter InMemori à vos familles en entretien." ]
       ]
   },
 

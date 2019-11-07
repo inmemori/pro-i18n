@@ -3,7 +3,7 @@
   "menu": {
       "home": "Home"
     , "tips": "Tips"
-    , "tips-link": "https://www.notion.so/inmemori/InMemori-Acad-mie-64fdc714efe64249aa3ddda8728d2e7a"
+    , "tips-link": "https://www.notion.so/inmemori/InMemori-Academy-f43677d848424091b1ddb0a2369c31e0"
     , "demo": "Sample site"
     , "demo-link": "https://www.inmemori.com/jpaladi"
     , "video": "Presentation video"
@@ -33,9 +33,9 @@
         "I really wanted to thank you for your site and the service provided: elegant, simple and effective, it has brought us much comfort in this difficult period."
       ]
     , "carousel": [
-          [ "lightbulb", "Read all \nour tips||https://www.google.com", "Presenting InMemori during an appointment makes it 3 times more likely to be used." ]
-        , [ "heartbeat", "", "Show the sample page to help the family understand InMemori." ]
-        , [ "wallet",  "", "Remind the family that they will be called by InMemori support team." ]
+          [ "lightbulb", "Read all \nour tips||https://www.notion.so/inmemori/InMemori-Academy-f43677d848424091b1ddb0a2369c31e0", "Presenting InMemori during an appointment makes it 3 times more likely to be used." ]
+        , [ "lightbulb", "", "Show the sample page to help the family understand InMemori." ]
+        , [ "lightbulb",  "", "Remind the family that they will be called by InMemori support team." ]
       ]
   },
 

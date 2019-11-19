@@ -1,1 +1,62 @@
-{}
+{
+
+  "menu": {
+      "home": "Home"
+    , "tips": "Tips"
+    , "tips-link": "https://www.notion.so/inmemori/InMemori-Academy-f43677d848424091b1ddb0a2369c31e0"
+    , "demo": "Sample site"
+    , "demo-link": "https://www.inmemori.com/jpaladi"
+    , "video": "Presentation video"
+    , "video-id": "XQ2RdK1RzHI"
+  },
+
+  "common": {
+      "name": "Name"
+    , "author": "Author"
+    , "family": "Family"
+    , "identifier": "Username"
+    , "password": "Password"
+  },
+
+  "err": {
+      "login": "Incorrect username or password."
+  },
+
+  "auth": {
+      "name": "Name"
+    , "tagline": ""
+  },
+
+  "home": {
+      "podium": "Page creation podium"
+    , "quotes": [
+        "I really wanted to thank you for your site and the service provided: elegant, simple and effective, it has brought us much comfort in this difficult period."
+      ]
+    , "carousel": [
+          [ "lightbulb", "Read all \nour tips||https://www.notion.so/inmemori/InMemori-Academy-f43677d848424091b1ddb0a2369c31e0", "Presenting InMemori during an appointment makes it 3 times more likely to be used." ]
+        , [ "lightbulb", "", "Show the sample page to help the family understand InMemori." ]
+        , [ "lightbulb",  "", "Remind the family that they will be called by InMemori support team." ]
+      ]
+  },
+
+  "pages-list": {
+      "info": "Can't find a space you created?\nThis means that the family decided not to use InMemori."
+    , "cta-open-page": "See page"
+    , "th": {
+          "name": "Name"
+        , "author": "Author"
+        , "family": "Family"
+        , "memories": "Number of\nmessages"
+        , "views": "People\nreached"
+        , "cat": "Creation\ndate"
+      }
+  },
+
+  "stats-bar": [
+      "Families\nsupported"
+    , "Messages\nshared"
+    , "Views"
+  ]
+
+
+}

@@ -1,0 +1,62 @@
+{
+
+  "menu": {
+      "home": "Inicio"
+    , "tips": "Consejos"
+    , "tips-link": "https://www.notion.so/inmemori/InMemori-Academia-c1bb742564054c4cb53b3dbe44058304"
+    , "demo": "Página muestra"
+    , "demo-link": "https://www.inmemori.com/acastillocruz-e63zl"
+    , "video": "Video de presentación"
+    , "video-id": "XQ2RdK1RzHI"
+  },
+
+  "common": {
+      "name": "Nombre"
+    , "author": "Consejero"
+    , "family": "Familia"
+    , "identifier": "Iniciar sesión"
+    , "password": "Contraseña"
+  },
+
+  "err": {
+      "login": "Su usuario y/o contraseña están incorrectos."
+  },
+
+  "auth": {
+      "name": "Nombre"
+    , "tagline": ""
+  },
+
+  "home": {
+      "podium": "Podio de la creación de páginas"
+    , "quotes": [
+        "Realmente quería agradecerles por su sitio y el servicio prestado: elegante, simple y efectivo. Nos trajo mucho consuelo en este periodo tan difícil."
+      ]
+    , "carousel": [
+          [ "lightbulb", "Lee todos\nnuestros consejos||https://www.notion.so/inmemori/InMemori-Academia-c1bb742564054c4cb53b3dbe44058304", "Es 3 veces más probable que la página InMemori sea utilizada si presentan el servicio durante la cita." ]
+        , [ "lightbulb", "", "Recuerdale a la familia que el equipo de InMemori los contactará para explicarles el servicio y responder sus dudas." ]
+        , [ "lightbulb",  "", "Enseña la página muestra al explicar que es InMemori y como funciona." ]
+      ]
+  },
+
+  "pages-list": {
+      "info": "¿No puedes encontrar una página que creaste?\nEsto significa que la familia decidió no utilizar InMemori."
+    , "cta-open-page": "Ver la página"
+    , "th": {
+          "name": "Nombre"
+        , "author": "Consejero"
+        , "family": "Familia"
+        , "memories": "Mensajes"
+        , "views": "Personas \ntocadas"
+        , "cat": "Fecha\nde creación"
+      }
+  },
+
+  "stats-bar": [
+      "Familias\napoyadas"
+    , "Mensajes\nde homenaje"
+    , "Personas\ntocadas"
+  ]
+
+
+}

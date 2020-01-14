@@ -2,6 +2,7 @@
 
   "menu": {
       "home": "Home"
+    , "new": "New Space"
     , "tips": "Tips"
     , "tips-link": "https://www.notion.so/inmemori/InMemori-Academy-f43677d848424091b1ddb0a2369c31e0"
     , "demo": "Sample site"
@@ -11,11 +12,43 @@
   },
 
   "common": {
-      "name": "Name"
-    , "author": "Author"
+      "author": "Author"
     , "family": "Family"
     , "identifier": "Username"
     , "password": "Password"
+    , "save": "Save"
+    , "edit": "Edit"
+    , "cancel": "Cancel"
+    , "next": "Next"
+    , "prev": "Previous"
+    , "share": "Share"
+    , "pay": "Payer"
+    , "finish": "Finish"
+    , "suggest": "Suggestion"
+    , "showmore": "Show more"
+    , "name": "Name"
+    , "firstname": "Firstname"
+    , "lastname": "Lastname"
+    , "fullname": "Fullname"
+    , "email": "Email"
+    , "phone": "phone"
+    , "address": "Addresse"
+    , "address-info": "Additionnal informations (door code, floor...)"
+    , "city": "City"
+    , "zipcode": "Zipcode"
+    , "country": "Country"
+    , "vat": "VAT Number"
+    , "shipping": "Shipping"
+    , "dob": "Date of birth"
+    , "dod": "Date of death"
+    , "ssn": "SSN Number"
+    , "routing": "Routing Number"
+    , "iban": "Iban Number"
+    , "choose": "Choose"
+    , "choose-file": "Choose file"
+    , "uploading": "Download"
+    , "partner": "Partner"
+    , "agency": "Agency"
   },
 
   "err": {
@@ -56,7 +89,78 @@
       "Families\nsupported"
     , "Messages\nshared"
     , "Views"
-  ]
+  ],
+
+  "places": {
+
+    "dummy": {
+        "name": "Adresse à préciser"
+      , "address": "France"
+    },
+
+    "types": {
+        "ceremony": "Cérémonie"
+      , "contemplation": "Recueillement"
+      , "inhumation": "Inhumation"
+      , "interment": "Enterrement"
+      , "cremation": "Crémation"
+      , "gathering": "Collation"
+      , "reception": "Réception"
+    },
+
+    "labels": {
+        "event": "Événement"
+      , "custom-type": "Événement personalisé"
+      , "privacy": "Aura lieu dans l'intimité familiale"
+      , "date": "Date"
+      , "placeholder-date": "jj/mm/aaaa"
+      , "time": "Heure"
+      , "name": "Nom du lieu"
+      , "address": "Adresse"
+      , "info": "Information complémentaire"
+    },
+
+    "ph": {
+        "date": "jj/mm/aaaa"
+      , "time": "hh:mm"
+      , "name": "Nom du lieu"
+      , "address": "Addresse"
+      , "custom-type": "Saisissez un text ..."
+    },
+
+    "cta": {
+        "delete": "Delete"
+      , "add": "Add a step"
+    }
+
+  },
+
+  "welcome": {
+      "steps": [
+        {
+            "title": "Informations du défunt"
+          , "subtitle": ""
+        },{
+            "title": "Coordonnées de la famille"
+          , "subtitle": ""
+        },{
+            "title": "Étapes de cérémonies"
+          , "subtitle": ""
+        },{
+            "title": "Espace crée !"
+          , "subtitle": ""
+        }
+      ]
+    , "labels": {
+          "name": "Nom du défunt"
+        , "terms": "En cliquant sur \"Créer la page\" vous acceptez nos CGU et vous consentez au traitement de vos données personnelles."
+        , "success": "L'espace en hommage à\n{{fullname}} a bien été créé."
+      }
+    , "cta": {
+          "create": "Créer la page"
+        , "reset": "Créer un nouvel espace"
+      }
+  }
 
 
 }

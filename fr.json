@@ -60,6 +60,37 @@
     , "tagline": ""
   },
 
+  "home": {
+      "podium": "Podium de la création d'espace"
+    , "quotes": [
+        "Je tenais vraiment à vous remercier pour votre site et le service rendu : sobre, simple et efficace, il a apporté énormément de bien à la famille et aux proches de notre ami qui est parti."
+      ]
+    , "carousel": [
+          [ "lightbulb", "Lire tous\nnos conseils||https://www.notion.so/inmemori/InMemori-Acad-mie-64fdc714efe64249aa3ddda8728d2e7a", "Un espace a 3 fois plus de chance d’être utilisé si InMemori est présenté en rdv." ]
+        , [ "lightbulb", "", "Rassurez vos familles en leur précisant que notre équipe support les appelera bientôt." ]
+        , [ "lightbulb",  "", "Vous pouvez vous servir de l'espace fictif de démonstration pour présenter InMemori à vos familles en entretien." ]
+      ]
+  },
+
+  "pages-list": {
+      "info": "Vous ne trouvez pas ici un espace que vous avez créé ?\nCela signifie que la famille n’a pas souhaité se servir d’InMemori."
+    , "cta-open-page": "Voir l'espace"
+    , "th": {
+          "name": "Nom"
+        , "author": "Auteur"
+        , "family": "Famille"
+        , "memories": "Nombre de\nmessages"
+        , "views": "Nombre de\npersonnes"
+        , "cat": "Date\nde création"
+      }
+  },
+
+  "stats-bar": [
+      "Familles\nsoutenues"
+    , "Messages\nd'hommage"
+    , "Consultations"
+  ],
+
   "places": {
 
     "dummy": {
@@ -129,38 +160,7 @@
           "create": "Créer la page"
         , "reset": "Créer un nouvel espace"
       }
-  },
-
-  "home": {
-      "podium": "Podium de la création d'espace"
-    , "quotes": [
-        "Je tenais vraiment à vous remercier pour votre site et le service rendu : sobre, simple et efficace, il a apporté énormément de bien à la famille et aux proches de notre ami qui est parti."
-      ]
-    , "carousel": [
-          [ "lightbulb", "Lire tous\nnos conseils||https://www.notion.so/inmemori/InMemori-Acad-mie-64fdc714efe64249aa3ddda8728d2e7a", "Un espace a 3 fois plus de chance d’être utilisé si InMemori est présenté en rdv." ]
-        , [ "lightbulb", "", "Rassurez vos familles en leur précisant que notre équipe support les appelera bientôt." ]
-        , [ "lightbulb",  "", "Vous pouvez vous servir de l'espace fictif de démonstration pour présenter InMemori à vos familles en entretien." ]
-      ]
-  },
-
-  "pages-list": {
-      "info": "Vous ne trouvez pas ici un espace que vous avez créé ?\nCela signifie que la famille n’a pas souhaité se servir d’InMemori."
-    , "cta-open-page": "Voir l'espace"
-    , "th": {
-          "name": "Nom"
-        , "author": "Auteur"
-        , "family": "Famille"
-        , "memories": "Nombre de\nmessages"
-        , "views": "Nombre de\npersonnes"
-        , "cat": "Date\nde création"
-      }
-  },
-
-  "stats-bar": [
-      "Familles\nsoutenues"
-    , "Messages\nd'hommage"
-    , "Consultations"
-  ]
+  }
 
 
 }

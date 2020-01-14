@@ -2,6 +2,7 @@
 
   "menu": {
       "home": "Inicio"
+    , "new": "New Space"
     , "tips": "Consejos"
     , "tips-link": "https://www.notion.so/inmemori/InMemori-Academia-c1bb742564054c4cb53b3dbe44058304"
     , "demo": "Página muestra"
@@ -11,11 +12,43 @@
   },
 
   "common": {
-      "name": "Nombre"
-    , "author": "Consejero"
+      "author": "Consejero"
     , "family": "Familia"
     , "identifier": "Iniciar sesión"
     , "password": "Contraseña"
+    , "save": "Enregistrer"
+    , "edit": "Modifier"
+    , "cancel": "Annuler"
+    , "next": "Suivant"
+    , "prev": "Précèdent"
+    , "share": "Partager"
+    , "pay": "Payer"
+    , "finish": "Terminer"
+    , "suggest": "Suggestion"
+    , "showmore": "Voir plus"
+    , "name": "Nombre"
+    , "firstname": "Prénom"
+    , "lastname": "Nom"
+    , "fullname": "Nom complet"
+    , "email": "Email"
+    , "phone": "Téléphone"
+    , "address": "Adresse"
+    , "address-info": "Informations complémentaires (digicode, étage...)"
+    , "city": "Ville"
+    , "zipcode": "Code postal"
+    , "country": "Pays"
+    , "vat": "Numéro de TVA"
+    , "shipping": "Livraison"
+    , "dob": "Date de naissance"
+    , "dod": "Date de décès"
+    , "ssn": "N° de sécurité sociale"
+    , "routing": "N° Routing"
+    , "iban": "N° Iban"
+    , "choose": "Choisir"
+    , "choose-file": "Choisir un fichier"
+    , "uploading": "Téléchargement"
+    , "partner": "Partenaire"
+    , "agency": "Agence"
   },
 
   "err": {
@@ -56,7 +89,78 @@
       "Familias\napoyadas"
     , "Mensajes\nde homenaje"
     , "Personas\ntocadas"
-  ]
+  ],
+
+  "places": {
+
+    "dummy": {
+        "name": "Adresse à préciser"
+      , "address": "France"
+    },
+
+    "types": {
+        "ceremony": "Cérémonie"
+      , "contemplation": "Recueillement"
+      , "inhumation": "Inhumation"
+      , "interment": "Enterrement"
+      , "cremation": "Crémation"
+      , "gathering": "Collation"
+      , "reception": "Réception"
+    },
+
+    "labels": {
+        "event": "Événement"
+      , "custom-type": "Événement personalisé"
+      , "privacy": "Aura lieu dans l'intimité familiale"
+      , "date": "Date"
+      , "placeholder-date": "jj/mm/aaaa"
+      , "time": "Heure"
+      , "name": "Nom du lieu"
+      , "address": "Adresse"
+      , "info": "Information complémentaire"
+    },
+
+    "ph": {
+        "date": "jj/mm/aaaa"
+      , "time": "hh:mm"
+      , "name": "Nom du lieu"
+      , "address": "Addresse"
+      , "custom-type": "Saisissez un text ..."
+    },
+
+    "cta": {
+        "delete": "Supprimer"
+      , "add": "Ajouter une étape"
+    }
+
+  },
+
+  "welcome": {
+      "steps": [
+        {
+            "title": "Informations du défunt"
+          , "subtitle": ""
+        },{
+            "title": "Coordonnées de la famille"
+          , "subtitle": ""
+        },{
+            "title": "Étapes de cérémonies"
+          , "subtitle": ""
+        },{
+            "title": "Espace crée !"
+          , "subtitle": ""
+        }
+      ]
+    , "labels": {
+          "name": "Nom du défunt"
+        , "terms": "En cliquant sur \"Créer la page\" vous acceptez nos CGU et vous consentez au traitement de vos données personnelles."
+        , "success": "L'espace en hommage à\n{{fullname}} a bien été créé."
+      }
+    , "cta": {
+          "create": "Créer la page"
+        , "reset": "Créer un nouvel espace"
+      }
+  }
 
 
 }

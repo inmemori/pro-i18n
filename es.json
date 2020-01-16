@@ -16,39 +16,39 @@
     , "family": "Familia"
     , "identifier": "Iniciar sesión"
     , "password": "Contraseña"
-    , "save": "Enregistrer"
-    , "edit": "Modifier"
-    , "cancel": "Annuler"
-    , "next": "Suivant"
-    , "prev": "Précèdent"
-    , "share": "Partager"
-    , "pay": "Payer"
-    , "finish": "Terminer"
-    , "suggest": "Suggestion"
-    , "showmore": "Voir plus"
+    , "save": "Guardar"
+    , "edit": "Modificar"
+    , "cancel": "Cerrar"
+    , "next": "Siguiente"
+    , "prev": "Regreso"
+    , "share": "Compartir"
+    , "pay": "Pagar"
+    , "finish": "Terminar"
+    , "suggest": "Sugestión"
+    , "showmore": "Ver más"
     , "name": "Nombre"
-    , "firstname": "Prénom"
-    , "lastname": "Nom"
-    , "fullname": "Nom complet"
+    , "firstname": "Nombre del difunto"
+    , "lastname": "Apellido del difunto"
+    , "fullname": "Nombre y Apellido del administrador"
     , "email": "Email"
-    , "phone": "Téléphone"
-    , "address": "Adresse"
-    , "address-info": "Informations complémentaires (digicode, étage...)"
-    , "city": "Ville"
-    , "zipcode": "Code postal"
-    , "country": "Pays"
+    , "phone": "Número de teléfono celular"
+    , "address": "Dirección"
+    , "address-info": "Informaciones adicionales (piso...)"
+    , "city": "Ciudad"
+    , "zipcode": "Código postal"
+    , "country": "País"
     , "vat": "Numéro de TVA"
-    , "shipping": "Livraison"
-    , "dob": "Date de naissance"
-    , "dod": "Date de décès"
+    , "shipping": "Envío"
+    , "dob": "Fecha de nacimiento"
+    , "dod": "Fecha de fallecimiento"
     , "ssn": "N° de sécurité sociale"
     , "routing": "N° Routing"
     , "iban": "N° Iban"
-    , "choose": "Choisir"
-    , "choose-file": "Choisir un fichier"
-    , "uploading": "Téléchargement"
-    , "partner": "Partenaire"
-    , "agency": "Agence"
+    , "choose": "Elegir"
+    , "choose-file": "Seleccionar un fichero"
+    , "uploading": "Descargando"
+    , "partner": "Socio"
+    , "agency": "Agencia"
   },
 
   "err": {
@@ -94,43 +94,43 @@
   "places": {
 
     "dummy": {
-        "name": "Adresse à préciser"
-      , "address": "France"
+        "name": "Lugar a espcificar"
+      , "address": "Mexico"
     },
 
     "types": {
-        "ceremony": "Cérémonie"
-      , "contemplation": "Recueillement"
-      , "inhumation": "Inhumation"
-      , "interment": "Enterrement"
-      , "cremation": "Crémation"
-      , "gathering": "Collation"
-      , "reception": "Réception"
+        "ceremony": "Ceremonia"
+      , "contemplation": "Velación"
+      , "inhumation": "Inhumación"
+      , "interment": "Entierro"
+      , "cremation": "Cremación"
+      , "gathering": "Reunión"
+      , "reception": "Recepción"
     },
 
     "labels": {
-        "event": "Événement"
-      , "custom-type": "Événement personalisé"
-      , "privacy": "Aura lieu dans l'intimité familiale"
-      , "date": "Date"
-      , "placeholder-date": "jj/mm/aaaa"
-      , "time": "Heure"
-      , "name": "Nom du lieu"
-      , "address": "Adresse"
-      , "info": "Information complémentaire"
+        "event": "Evento"
+      , "custom-type": "Evento de su eleccion"
+      , "privacy": "Se llevará a cabo en la intimidad familiar"
+      , "date": "Fecha"
+      , "placeholder-date": "dd/mm/aaaa"
+      , "time": "Hora"
+      , "name": "Nombre del lugar"
+      , "address": "Dirección"
+      , "info": "Información complementaria"
     },
 
     "ph": {
-        "date": "jj/mm/aaaa"
+        "date": "dd/mm/aaaa"
       , "time": "hh:mm"
-      , "name": "Nom du lieu"
-      , "address": "Addresse"
-      , "custom-type": "Saisissez un text ..."
+      , "name": "Nombre del lugar"
+      , "address": "Dirección"
+      , "custom-type": "Escribe aquí..."
     },
 
     "cta": {
-        "delete": "Supprimer"
-      , "add": "Ajouter une étape"
+        "delete": "Suprimir"
+      , "add": "Agregar un evento"
     }
 
   },
@@ -138,27 +138,27 @@
   "welcome": {
       "steps": [
         {
-            "title": "Informations du défunt"
+            "title": "Informaciones del difunto"
           , "subtitle": ""
         },{
-            "title": "Coordonnées de la famille"
+            "title": "Contactos de la familia"
           , "subtitle": ""
         },{
-            "title": "Étapes de cérémonies"
+            "title": "Ceremonias"
           , "subtitle": ""
         },{
-            "title": "Espace crée !"
+            "title": "Espacio creado"
           , "subtitle": ""
         }
       ]
     , "labels": {
-          "name": "Nom du défunt"
+          "name": "Nombre del difunto"
         , "terms": "En cliquant sur \"Créer la page\" vous acceptez nos CGU et vous consentez au traitement de vos données personnelles."
         , "success": "L'espace en hommage à\n{{fullname}} a bien été créé."
       }
     , "cta": {
-          "create": "Créer la page"
-        , "reset": "Créer un nouvel espace"
+          "create": "Crear la pagína"
+        , "reset": "Crear otra pagína"
       }
   }
 

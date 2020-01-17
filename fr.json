@@ -138,17 +138,17 @@
   "welcome": {
       "steps": [
         {
-            "title": "Informations du défunt"
-          , "subtitle": ""
+            "title": "Création d'un nouvel espace"
+          , "subtitle": "Veuillez renseigner ici les informations du défunt"
         },{
             "title": "Coordonnées de la famille"
-          , "subtitle": ""
+          , "subtitle": "Elles nous seront utile pour recontacter la famille"
         },{
-            "title": "Étapes de cérémonies"
-          , "subtitle": ""
+            "title": "Déroulé des obsèques"
+          , "subtitle": "Plus vous serez précis, plus la page sera prête à l'emploi pour la famille"
         },{
-            "title": "Espace crée !"
-          , "subtitle": ""
+            "title": "L'espace a bien été créé !"
+          , "subtitle": "Le lien a été envoyé par email à la famille. L'équipe InMemori prendra contact avec eux dans les 24h pour prendre le relais"
         }
       ]
     , "labels": {
@@ -157,8 +157,8 @@
         , "success": "L'espace en hommage à\n{{fullname}} a bien été créé."
       }
     , "cta": {
-          "create": "Créer la page"
-        , "reset": "Créer un nouvel espace"
+          "create": "Créer un nouvel espace"
+        , "reset": "OK"
       }
   }
 

@@ -29,7 +29,7 @@
     , "name": "Nom"
     , "firstname": "Prénom"
     , "lastname": "Nom"
-    , "fullname": "Nom complet"
+    , "fullname": "Prénom Nom"
     , "email": "Email"
     , "phone": "Téléphone"
     , "address": "Adresse"
@@ -109,8 +109,8 @@
     },
 
     "labels": {
-        "event": "Événement"
-      , "custom-type": "Événement personalisé"
+        "event": "Moment"
+      , "custom-type": "Moment personalisé"
       , "privacy": "Aura lieu dans l'intimité familiale"
       , "date": "Date"
       , "placeholder-date": "jj/mm/aaaa"
@@ -123,14 +123,14 @@
     "ph": {
         "date": "jj/mm/aaaa"
       , "time": "hh:mm"
-      , "name": "Nom du lieu"
-      , "address": "Addresse"
-      , "custom-type": "Saisissez un text ..."
+      , "name": "Nom du lieu (Ex : Cimetière de la Croix Rousse"
+      , "address": "Adresse"
+      , "custom-type": "Saisissez un texte ..."
     },
 
     "cta": {
         "delete": "Supprimer"
-      , "add": "Ajouter une étape"
+      , "add": "Ajouter un moment"
     }
 
   },
@@ -139,13 +139,13 @@
       "steps": [
         {
             "title": "Création d'un nouvel espace"
-          , "subtitle": "Veuillez renseigner ici les informations du défunt"
+          , "subtitle": "Veuillez renseigner ici les informations relative au défunt."
         },{
             "title": "Coordonnées de la famille"
-          , "subtitle": "Elles nous seront utile pour recontacter la famille"
+          , "subtitle": "Elles nous seront utile pour recontacter la famille et l'accompagner au mieux dans la mise en place de notre service."
         },{
             "title": "Déroulé des obsèques"
-          , "subtitle": "Plus vous serez précis, plus la page sera prête à l'emploi pour la famille"
+          , "subtitle": "Plus vous serez précis, plus la page sera prête à l'emploi pour la famille. Vous pouvez ajouter plusieurs moments. Ex: Cérémonie, Inhumation..."
         },{
             "title": "L'espace a bien été créé !"
           , "subtitle": "Le lien a été envoyé par email à la famille. L'équipe InMemori prendra contact avec eux dans les 24h pour prendre le relais"

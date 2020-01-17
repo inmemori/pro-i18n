@@ -157,7 +157,7 @@
         , "success": "L'espace en hommage à\n{{fullname}} a bien été créé."
       }
     , "cta": {
-          "create": "Créer un nouvel espace"
+          "create": "Créer l'espace"
         , "reset": "OK"
       }
   }

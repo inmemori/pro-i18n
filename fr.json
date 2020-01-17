@@ -2,7 +2,7 @@
 
   "menu": {
       "home": "Accueil"
-    , "new": "Créer un nouvel Espace"
+    , "new": "Créer un nouvel espace"
     , "tips": "Astuces"
     , "tips-link": "https://www.notion.so/inmemori/InMemori-Acad-mie-64fdc714efe64249aa3ddda8728d2e7a"
     , "demo": "Espace d'exemple"
@@ -20,7 +20,7 @@
     , "edit": "Modifier"
     , "cancel": "Annuler"
     , "next": "Suivant"
-    , "prev": "Précèdent"
+    , "prev": "Précédent"
     , "share": "Partager"
     , "pay": "Payer"
     , "finish": "Terminer"
@@ -115,7 +115,7 @@
       , "date": "Date"
       , "placeholder-date": "jj/mm/aaaa"
       , "time": "Heure"
-      , "name": "Nom du lieu"
+      , "name": "Nom du lieu (ex : Cimetière de la Croix-Rousse)"
       , "address": "Adresse"
       , "info": "Information complémentaire"
     },
@@ -123,7 +123,7 @@
     "ph": {
         "date": "jj/mm/aaaa"
       , "time": "hh:mm"
-      , "name": "Nom du lieu (Ex : Cimetière de la Croix Rousse"
+      , "name": "Nom du lieu (Ex : Cimetière de la Croix-Rousse)"
       , "address": "Adresse"
       , "custom-type": "Saisissez un texte ..."
     },

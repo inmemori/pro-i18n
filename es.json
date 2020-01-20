@@ -153,8 +153,8 @@
       ]
     , "labels": {
           "name": "Nombre del difunto"
-        , "terms": "En cliquant sur \"Créer la page\" vous acceptez nos CGU et vous consentez au traitement de vos données personnelles."
-        , "success": "L'espace en hommage à\n{{fullname}} a bien été créé."
+        , "terms": "Al hacer clic en \"Compartir\", acepta el procesamiento de sus datos personales necesarios para el correcto funcionamiento del servicio."
+        , "success": "La página en honor a\n{{fullname}} ha sido creada."
       }
     , "cta": {
           "create": "Crear la pagína"

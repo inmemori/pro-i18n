@@ -157,7 +157,7 @@
         , "success": "The space honoring\n{{fullname}} has been created."
       }
     , "cta": {
-          "create": "Create a space"
+          "create": "Create space"
         , "reset": "Create a new space"
       }
   }

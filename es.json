@@ -2,11 +2,11 @@
 
   "menu": {
       "home": "Inicio"
-    , "new": "New Space"
+    , "new": "Crear Espacio"
     , "tips": "Consejos"
     , "tips-link": "https://www.notion.so/inmemori/InMemori-Academia-c1bb742564054c4cb53b3dbe44058304"
     , "demo": "Página muestra"
-    , "demo-link": "https://www.inmemori.com/acastillocruz-e63zl"
+    , "demo-link": "https://www.inmemori.com/acastillocruz-u56ho"
     , "video": "Video de presentación"
     , "video-id": "XQ2RdK1RzHI"
   },
@@ -14,17 +14,17 @@
   "common": {
       "author": "Consejero"
     , "family": "Familia"
-    , "identifier": "Iniciar sesión"
+    , "identifier": "Usuario"
     , "password": "Contraseña"
     , "save": "Guardar"
     , "edit": "Modificar"
-    , "cancel": "Cerrar"
+    , "cancel": "Cancelar"
     , "next": "Siguiente"
-    , "prev": "Regreso"
+    , "prev": "Regresar"
     , "share": "Compartir"
     , "pay": "Pagar"
     , "finish": "Terminar"
-    , "suggest": "Sugestión"
+    , "suggest": "Sugerencia"
     , "showmore": "Ver más"
     , "name": "Nombre"
     , "firstname": "Nombre del difunto"
@@ -33,20 +33,20 @@
     , "email": "Email"
     , "phone": "Número de teléfono celular"
     , "address": "Dirección"
-    , "address-info": "Informaciones adicionales (piso...)"
+    , "address-info": "Información adicional (piso...)"
     , "city": "Ciudad"
     , "zipcode": "Código postal"
     , "country": "País"
-    , "vat": "Numéro de TVA"
+    , "vat": "IVA"
     , "shipping": "Envío"
     , "dob": "Fecha de nacimiento"
     , "dod": "Fecha de fallecimiento"
-    , "ssn": "N° de sécurité sociale"
-    , "routing": "N° Routing"
-    , "iban": "N° Iban"
+    , "ssn": "Número de seguridad social"
+    , "routing": "Número de ruta"
+    , "iban": "Número Iban"
     , "choose": "Elegir"
-    , "choose-file": "Seleccionar un fichero"
-    , "uploading": "Descargando"
+    , "choose-file": "Seleccionar un archivo"
+    , "uploading": "Descargar"
     , "partner": "Socio"
     , "agency": "Agencia"
   },
@@ -61,26 +61,26 @@
   },
 
   "home": {
-      "podium": "Podio de la creación de páginas"
+      "podium": "Top Tres"
     , "quotes": [
         "Realmente quería agradecerles por su sitio y el servicio prestado: elegante, simple y efectivo. Nos trajo mucho consuelo en este periodo tan difícil."
       ]
     , "carousel": [
-          [ "lightbulb", "Lee todos\nnuestros consejos||https://www.notion.so/inmemori/InMemori-Academia-c1bb742564054c4cb53b3dbe44058304", "Es 3 veces más probable que la página InMemori sea utilizada si presentan el servicio durante la cita." ]
+          [ "lightbulb", "Lee todos\nnuestros consejos||https://www.notion.so/inmemori/InMemori-Academia-c1bb742564054c4cb53b3dbe44058304", "Es 3 veces más probable que el espacio InMemori sea utilizado si enseña el espacio muestra." ]
         , [ "lightbulb", "", "Recuerdale a la familia que el equipo de InMemori los contactará para explicarles el servicio y responder sus dudas." ]
         , [ "lightbulb",  "", "Enseña la página muestra al explicar que es InMemori y como funciona." ]
       ]
   },
 
   "pages-list": {
-      "info": "¿No puedes encontrar una página que creaste?\nEsto significa que la familia decidió no utilizar InMemori."
-    , "cta-open-page": "Ver la página"
+      "info": "¿No puedes encontrar un espacio que creaste?\nEsto significa que la familia decidió no utilizar InMemori."
+    , "cta-open-page": "Ver espacio"
     , "th": {
           "name": "Nombre"
         , "author": "Consejero"
         , "family": "Familia"
         , "memories": "Mensajes"
-        , "views": "Personas \ntocadas"
+        , "views": "Personas \nalcanzadas"
         , "cat": "Fecha\nde creación"
       }
   },
@@ -88,14 +88,14 @@
   "stats-bar": [
       "Familias\napoyadas"
     , "Mensajes\nde homenaje"
-    , "Personas\ntocadas"
+    , "Personas \nalcanzadas"
   ],
 
   "places": {
 
     "dummy": {
-        "name": "Lugar a espcificar"
-      , "address": "Mexico"
+        "name": "Lugar a especificar"
+      , "address": "México"
     },
 
     "types": {
@@ -110,7 +110,7 @@
 
     "labels": {
         "event": "Evento"
-      , "custom-type": "Evento de su eleccion"
+      , "custom-type": "Evento de su elección"
       , "privacy": "Se llevará a cabo en la intimidad familiar"
       , "date": "Fecha"
       , "placeholder-date": "dd/mm/aaaa"
@@ -125,11 +125,11 @@
       , "time": "hh:mm"
       , "name": "Nombre del lugar"
       , "address": "Dirección"
-      , "custom-type": "Escribe aquí..."
+      , "custom-type": "Escriba aquí..."
     },
 
     "cta": {
-        "delete": "Suprimir"
+        "delete": "Eliminar"
       , "add": "Agregar un evento"
     }
 
@@ -138,11 +138,11 @@
   "welcome": {
       "steps": [
         {
-            "title": "Informaciones del difunto"
-          , "subtitle": ""
+            "title": "Creación de un espacio nuevo"
+          , "subtitle": "Ingrese aquí la información del difunto."
         },{
             "title": "Contactos de la familia"
-          , "subtitle": ""
+          , "subtitle": "Datos del administrador"
         },{
             "title": "Ceremonias"
           , "subtitle": ""
@@ -153,12 +153,12 @@
       ]
     , "labels": {
           "name": "Nombre del difunto"
-        , "terms": "Al hacer clic en \"Compartir\", acepta el procesamiento de sus datos personales necesarios para el correcto funcionamiento del servicio."
-        , "success": "La página en honor a\n{{fullname}} ha sido creada."
+        , "terms": "Al hacer clic en \"Crear espacio\", acepta nuestros términos y condiciones y acepta el procesamiento de sus datos personales."
+        , "success": "El espacio en honor a\n{{fullname}} ha sido creada."
       }
     , "cta": {
-          "create": "Crear la pagína"
-        , "reset": "Crear otra pagína"
+          "create": "Crear espacio"
+        , "reset": "Crear otro espacio"
       }
   }
 

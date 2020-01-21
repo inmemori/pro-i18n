@@ -5,7 +5,7 @@
     , "new": "New Space"
     , "tips": "Tips"
     , "tips-link": "https://www.notion.so/inmemori/InMemori-Academy-f43677d848424091b1ddb0a2369c31e0"
-    , "demo": "Sample site"
+    , "demo": "Sample space"
     , "demo-link": "https://www.inmemori.com/jpaladi"
     , "video": "Presentation video"
     , "video-id": "XQ2RdK1RzHI"
@@ -20,22 +20,22 @@
     , "edit": "Edit"
     , "cancel": "Cancel"
     , "next": "Next"
-    , "prev": "Previous"
+    , "prev": "Back"
     , "share": "Share"
-    , "pay": "Payer"
+    , "pay": "Pay"
     , "finish": "Finish"
     , "suggest": "Suggestion"
     , "showmore": "Show more"
     , "name": "Name"
-    , "firstname": "Firstname"
-    , "lastname": "Lastname"
-    , "fullname": "Fullname"
+    , "firstname": "First name"
+    , "lastname": "Last name"
+    , "fullname": "Full name"
     , "email": "Email"
-    , "phone": "phone"
-    , "address": "Addresse"
-    , "address-info": "Additionnal informations (door code, floor...)"
+    , "phone": "Phone"
+    , "address": "Address"
+    , "address-info": "Additionnal information (door code, floor...)"
     , "city": "City"
-    , "zipcode": "Zipcode"
+    , "zipcode": "Zip code"
     , "country": "Country"
     , "vat": "VAT Number"
     , "shipping": "Shipping"
@@ -52,7 +52,7 @@
   },
 
   "err": {
-      "login": "Incorrect username or password."
+      "login": "Incorrect username and/or password."
   },
 
   "auth": {
@@ -61,14 +61,14 @@
   },
 
   "home": {
-      "podium": "Page creation podium"
+      "podium": "Top Three"
     , "quotes": [
-        "I really wanted to thank you for your site and the service provided: elegant, simple and effective, it has brought us much comfort in this difficult period."
+        "I really wanted to thank you for your site and the service provided: elegant, simple and effective. It has brought us much comfort during this difficult period."
       ]
     , "carousel": [
           [ "lightbulb", "Read all \nour tips||https://www.notion.so/inmemori/InMemori-Academy-f43677d848424091b1ddb0a2369c31e0", "Presenting InMemori during an appointment makes it 3 times more likely to be used." ]
         , [ "lightbulb", "", "Show the sample page to help the family understand InMemori." ]
-        , [ "lightbulb",  "", "Remind the family that they will be called by InMemori support team." ]
+        , [ "lightbulb",  "", "Remind the family that they will be called by the InMemori support team." ]
       ]
   },
 
@@ -94,43 +94,43 @@
   "places": {
 
     "dummy": {
-        "name": "Adresse à préciser"
-      , "address": "France"
+        "name": "Address to be specified"
+      , "address": "United States"
     },
 
     "types": {
-        "ceremony": "Cérémonie"
-      , "contemplation": "Recueillement"
-      , "inhumation": "Inhumation"
-      , "interment": "Enterrement"
-      , "cremation": "Crémation"
-      , "gathering": "Collation"
-      , "reception": "Réception"
+        "ceremony": "Ceremony"
+      , "contemplation": "Contemplation"
+      , "inhumation": "Burial"
+      , "interment": "Interment"
+      , "cremation": "Cremation"
+      , "gathering": "Gathering"
+      , "reception": "Reception"
     },
 
     "labels": {
-        "event": "Événement"
-      , "custom-type": "Événement personalisé"
-      , "privacy": "Aura lieu dans l'intimité familiale"
+        "event": "Event"
+      , "custom-type": "Custom event"
+      , "privacy": "Event will take place in family privacy"
       , "date": "Date"
-      , "placeholder-date": "jj/mm/aaaa"
-      , "time": "Heure"
-      , "name": "Nom du lieu"
-      , "address": "Adresse"
-      , "info": "Information complémentaire"
+      , "placeholder-date": "dd/mm/yyyy"
+      , "time": "Time"
+      , "name": "Name of the place"
+      , "address": "Address"
+      , "info": "Complementary information"
     },
 
     "ph": {
         "date": "jj/mm/aaaa"
       , "time": "hh:mm"
-      , "name": "Nom du lieu"
-      , "address": "Addresse"
-      , "custom-type": "Saisissez un text ..."
+      , "name": "Name of the place"
+      , "address": "Address"
+      , "custom-type": "Type here..."
     },
 
     "cta": {
         "delete": "Delete"
-      , "add": "Add a step"
+      , "add": "Add an event"
     }
 
   },
@@ -138,27 +138,27 @@
   "welcome": {
       "steps": [
         {
-            "title": "Informations du défunt"
+            "title": "New space creation"
+          , "subtitle": "Please enter the information relating to the deceased here."
+        },{
+            "title": "Family contact information"
           , "subtitle": ""
         },{
-            "title": "Coordonnées de la famille"
+            "title": "Ceremonies"
           , "subtitle": ""
         },{
-            "title": "Étapes de cérémonies"
-          , "subtitle": ""
-        },{
-            "title": "Espace crée !"
+            "title": "The space has been created!"
           , "subtitle": ""
         }
       ]
     , "labels": {
-          "name": "Nom du défunt"
-        , "terms": "En cliquant sur \"Créer la page\" vous acceptez nos CGU et vous consentez au traitement de vos données personnelles."
-        , "success": "L'espace en hommage à\n{{fullname}} a bien été créé."
+          "name": "Name of the deceased"
+        , "terms": "By clicking on \"Create space\" you accept our terms and conditions and you consent to the processing of your personal data."
+        , "success": "The space honoring\n{{fullname}} has been created."
       }
     , "cta": {
-          "create": "Créer la page"
-        , "reset": "Créer un nouvel espace"
+          "create": "Create a space"
+        , "reset": "Create a new space"
       }
   }
 

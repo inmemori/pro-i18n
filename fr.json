@@ -138,10 +138,10 @@
   "welcome": {
       "steps": [
         {
-            "title": "Etape 1/2 : Saisir les informations relatives au défunt"
+            "title": "Etape 1/2 :\n Saisir les informations relatives au défunt"
           , "subtitle": "Veuillez renseigner ici les informations relatives au défunt."
         },{
-            "title": "Etape 2/2 : Saisir les coordonnées de la famille"
+            "title": "Etape 2/2 :\n Saisir les coordonnées de la famille"
           , "subtitle": "Elles nous sont indispensables pour les recontacter et les accompagner au mieux dans la mise en place du service InMemori."
         },{
             "title": "Déroulé des obsèques"

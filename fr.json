@@ -138,10 +138,10 @@
   "welcome": {
       "steps": [
         {
-            "title": "Création d'un nouvel espace"
+            "title": "Etape 1/2 : Saisir les informations relatives au défunt"
           , "subtitle": "Veuillez renseigner ici les informations relatives au défunt."
         },{
-            "title": "Coordonnées de la famille"
+            "title": "Etape 2/2 : Saisir les coordonnées de la famille"
           , "subtitle": "Elles nous sont indispensables pour les recontacter et les accompagner au mieux dans la mise en place du service InMemori."
         },{
             "title": "Déroulé des obsèques"
@@ -154,7 +154,7 @@
     , "labels": {
           "name": "Nom du défunt"
         , "terms": "En cliquant sur \"Créer la page\" vous acceptez nos CGU et vous consentez au traitement de vos données personnelles."
-        , "success": "L'espace en hommage à\n{{fullname}} a bien été créé."
+        , "success": "Merci ! L'espace en hommage à\n{{fullname}} a bien été créé."
       }
     , "cta": {
           "create": "Créer l'espace"

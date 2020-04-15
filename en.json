@@ -145,16 +145,20 @@
           , "title": "Your informations"
           , "subtitle": ""
         },{
-            "title": "New space creation"
+            "key": "defunct"
+          , "title": "New space creation"
           , "subtitle": "Please enter the information relating to the deceased here."
         },{
-            "title": "Family contact information"
+            "key": "contacts"
+          , "title": "Family contact information"
+          , "subtitle": "Elles nous sont indispensables pour les recontacter et les accompagner au mieux dans la mise en place du service InMemori."
+        },{
+            "key": "places"
+          , "title": "Ceremonies"
           , "subtitle": ""
         },{
-            "title": "Ceremonies"
-          , "subtitle": ""
-        },{
-            "title": "The space has been created!"
+            "key": "success"
+          , "title": "The space has been created!"
           , "subtitle": ""
         }
       ]

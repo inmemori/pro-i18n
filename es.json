@@ -145,16 +145,20 @@
           , "title": "Your informations"
           , "subtitle": ""
         },{
-            "title": "Creación de un espacio nuevo"
+            "key": "defunct"
+          , "title": "Creación de un espacio nuevo"
           , "subtitle": "Ingrese aquí la información del difunto."
         },{
-            "title": "Contactos de la familia"
+            "key": "contacts"
+          , "title": "Contactos de la familia"
           , "subtitle": "Datos del administrador"
         },{
-            "title": "Ceremonias"
+            "key": "places"
+          , "title": "Ceremonias"
           , "subtitle": ""
         },{
-            "title": "Espacio creado"
+            "key": "success"
+          , "title": "Espacio creado"
           , "subtitle": ""
         }
       ]

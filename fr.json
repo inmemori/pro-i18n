@@ -9,6 +9,8 @@
     , "demo-link": "https://www.inmemori.com/mdarricourt-e73qk"
     , "video": "Vidéo de présentation"
     , "video-id": "XQ2RdK1RzHI"
+    , "testimonials": "Témoignages familles"
+    , "testimonials-link": "https://fr.inmemori.com/testimonials"
   },
 
   "common": {
@@ -91,6 +93,17 @@
     , "Consultations"
   ],
 
+  "contacts": {
+    "ph": {
+        "name": "Prénom et Nom"
+      , "phone": "N° de mobile"
+      , "email": "Email"
+    },
+    "cta": {
+        "add": "Ajouter un contact"
+    }
+  },
+
   "places": {
 
     "dummy": {
@@ -138,16 +151,24 @@
   "welcome": {
       "steps": [
         {
-            "title": "Création d'un nouvel espace"
+            "key": "author"
+          , "title": "Vos informations"
+          , "subtitle": ""
+        },{
+            "key": "defunct"
+          , "title": "Création d'un nouvel espace"
           , "subtitle": "Veuillez renseigner ici les informations relatives au défunt."
         },{
-            "title": "Coordonnées de la famille"
+            "key": "contacts"
+          , "title": "Coordonnées de la famille"
           , "subtitle": "Elles nous sont indispensables pour les recontacter et les accompagner au mieux dans la mise en place du service InMemori."
         },{
-            "title": "Déroulé des obsèques"
+            "key": "places"
+          , "title": "Déroulé des obsèques"
           , "subtitle": "Plus vous serez précis, plus la page sera prête à l'emploi pour la famille.\n\nVous pouvez ajouter plusieurs moments.\nEx: Cérémonie, Inhumation..."
         },{
-            "title": "L'espace a bien été créé !"
+            "key": "success"
+          , "title": "L'espace a bien été créé !"
           , "subtitle": "Le lien a été envoyé par email à la famille. \nL'équipe InMemori prendra contact avec eux dans les 24h pour prendre le relais"
         }
       ]
@@ -155,6 +176,7 @@
           "name": "Nom du défunt"
         , "terms": "En cliquant sur \"Créer la page\" vous acceptez nos CGU et vous consentez au traitement de vos données personnelles."
         , "success": "L'espace en hommage à\n{{fullname}} a bien été créé."
+        , "link": "Voir L'espace"
       }
     , "cta": {
           "create": "Créer l'espace"

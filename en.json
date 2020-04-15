@@ -9,6 +9,8 @@
     , "demo-link": "https://www.inmemori.com/jpaladi"
     , "video": "Presentation video"
     , "video-id": "XQ2RdK1RzHI"
+    , "testimonials": "Témoignages familles"
+    , "testimonials-link": "https://en.inmemori.com/testimonials"
   },
 
   "common": {
@@ -138,6 +140,10 @@
   "welcome": {
       "steps": [
         {
+            "key": "author"
+          , "title": "Your informations"
+          , "subtitle": ""
+        }{
             "title": "New space creation"
           , "subtitle": "Please enter the information relating to the deceased here."
         },{

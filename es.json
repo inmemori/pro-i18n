@@ -9,6 +9,8 @@
     , "demo-link": "https://www.inmemori.com/acastillocruz-u56ho"
     , "video": "Video de presentación"
     , "video-id": "XQ2RdK1RzHI"
+    , "testimonials": "Témoignages familles"
+    , "testimonials-link": "https://es.inmemori.com/testimonials"
   },
 
   "common": {
@@ -138,6 +140,10 @@
   "welcome": {
       "steps": [
         {
+            "key": "author"
+          , "title": "Your informations"
+          , "subtitle": ""
+        },{
             "title": "Creación de un espacio nuevo"
           , "subtitle": "Ingrese aquí la información del difunto."
         },{

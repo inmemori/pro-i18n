@@ -60,7 +60,7 @@
   },
 
   "dates": {
-    "range": "Start|End"
+    "range": "Inicio|Fin"
   },
 
   "auth": {

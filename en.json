@@ -59,6 +59,10 @@
       "login": "Incorrect username and/or password."
   },
 
+  "dates": {
+    "range": "Start|End"
+  },
+
   "auth": {
       "name": "Name"
     , "tagline": ""

@@ -59,6 +59,10 @@
       "login": "Su usuario y/o contraseña están incorrectos."
   },
 
+  "dates": {
+    "range": "Start|End"
+  },
+
   "auth": {
       "name": "Nombre"
     , "tagline": ""

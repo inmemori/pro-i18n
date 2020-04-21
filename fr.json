@@ -59,6 +59,10 @@
       "login": "Identifiants invalides !"
   },
 
+  "dates": {
+    "range": "Début|Fin"
+  },
+
   "auth": {
       "name": "Nom"
     , "tagline": ""
@@ -183,7 +187,7 @@
       }
     , "cta": {
           "create": "Créer l'espace"
-        , "reset": "OK"
+        , "reset": "Créer un nouvel espace"
       }
   }
 

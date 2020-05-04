@@ -9,7 +9,7 @@
     , "demo-link": "https://www.inmemori.com/jpaladi"
     , "video": "Presentation video"
     , "video-id": "XQ2RdK1RzHI"
-    , "testimonials": "Témoignages familles"
+    , "testimonials": "Family testimonies"
     , "testimonials-link": "https://en.inmemori.com/testimonials"
     , "logout": "Log out"
   },
@@ -147,7 +147,7 @@
       "steps": [
         {
             "key": "author"
-          , "title": "Your informations"
+          , "title": "Your information"
           , "subtitle": ""
         },{
             "key": "defunct"
@@ -156,8 +156,7 @@
         },{
             "key": "contacts"
           , "title": "Family contact information"
-          , "subtitle": "Elles nous sont indispensables pour les recontacter et les accompagner au mieux dans la mise en place du service InMemori."
-        },{
+          , "subtitle": "This information is necessary for us to be able to contact the family and provide them with any assistance they may need."
             "key": "places"
           , "title": "Ceremonies"
           , "subtitle": ""

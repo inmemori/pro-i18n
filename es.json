@@ -147,7 +147,7 @@
       "steps": [
         {
             "key": "author"
-          , "title": "Your informations"
+          , "title": "Información del consejero"
           , "subtitle": ""
         },{
             "key": "defunct"
@@ -155,7 +155,7 @@
           , "subtitle": "Ingrese aquí la información del difunto."
         },{
             "key": "contacts"
-          , "title": "Contactos de la familia"
+          , "title": "Contacto de la familia"
           , "subtitle": "Datos del administrador"
         },{
             "key": "places"

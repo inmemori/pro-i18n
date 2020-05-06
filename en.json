@@ -99,6 +99,17 @@
     , "Views"
   ],
 
+  "contacts": {
+    "ph": {
+        "name": "Firstname Name"
+      , "phone": "Mobile number"
+      , "email": "Email"
+    },
+    "cta": {
+        "add": "Add a manager"
+    }
+  },
+
   "places": {
 
     "dummy": {
@@ -157,7 +168,7 @@
             "key": "contacts"
           , "title": "Family contact information"
           , "subtitle": "This information is necessary for us to be able to contact the family and provide them with any assistance they may need."
-        },{ 
+        },{
             "key": "places"
           , "title": "Ceremonies"
           , "subtitle": ""

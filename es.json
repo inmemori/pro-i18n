@@ -99,6 +99,17 @@
     , "Personas \nalcanzadas"
   ],
 
+  "contacts": {
+    "ph": {
+        "name": "Firstname Name"
+      , "phone": "Mobile number"
+      , "email": "Email"
+    },
+    "cta": {
+        "add": "Add a manager"
+    }
+  },
+
   "places": {
 
     "dummy": {

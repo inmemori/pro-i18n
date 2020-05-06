@@ -182,6 +182,7 @@
           "name": "Nombre del difunto"
         , "terms": "Al hacer clic en \"Crear espacio\", acepta nuestros términos y condiciones y acepta el procesamiento de sus datos personales."
         , "success": "El espacio en honor a\n{{fullname}} ha sido creada."
+        , "link": "View Page"
       }
     , "cta": {
           "create": "Crear espacio"

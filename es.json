@@ -101,12 +101,12 @@
 
   "contacts": {
     "ph": {
-        "name": "Firstname Name"
-      , "phone": "Mobile number"
+        "name": "Nombre y apellido"
+      , "phone": "Teléfono"
       , "email": "Email"
     },
     "cta": {
-        "add": "Add a manager"
+        "add": "Agregar administrador"
     }
   },
 

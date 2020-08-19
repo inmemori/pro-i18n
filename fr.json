@@ -3,6 +3,7 @@
   "menu": {
       "home": "Accueil"
     , "new": "Créer un nouvel espace"
+    , "pages": "Derniers espaces créés"
     , "tips": "Astuces"
     , "tips-link": "https://www.notion.so/inmemori/InMemori-Acad-mie-64fdc714efe64249aa3ddda8728d2e7a"
     , "demo": "Espace d'exemple"
@@ -79,6 +80,15 @@
         , [ "lightbulb", "", "Rassurez vos familles en leur précisant que notre équipe support les appelera bientôt." ]
         , [ "lightbulb",  "", "Vous pouvez vous servir de l'espace fictif de démonstration pour présenter InMemori à vos familles en entretien." ]
       ]
+  },
+
+  "app": {
+    "dashboard": {
+      "title": "Dashboard"
+    },
+    "pages": {
+      "title": "Derniers espaces créés"
+    }
   },
 
   "pages-list": {

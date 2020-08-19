@@ -3,6 +3,7 @@
   "menu": {
       "home": "Home"
     , "new": "New space"
+    , "pages": "Last created spaces"
     , "tips": "Tips"
     , "tips-link": "https://www.notion.so/inmemori/InMemori-Academy-f43677d848424091b1ddb0a2369c31e0"
     , "demo": "Sample space"
@@ -78,6 +79,15 @@
         , [ "lightbulb", "", "Show the sample page to help the family understand InMemori." ]
         , [ "lightbulb",  "", "Remind the family that they will be called by the InMemori support team." ]
       ]
+  },
+
+  "app": {
+    "dashboard": {
+      "title": "Dashboard"
+    },
+    "pages": {
+      "title": "Last created spaces"
+    }
   },
 
   "pages-list": {

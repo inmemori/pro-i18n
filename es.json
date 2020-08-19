@@ -3,6 +3,7 @@
   "menu": {
       "home": "Inicio"
     , "new": "Crear espacio"
+    , "pages": "Últimas páginas creadas"
     , "tips": "Consejos"
     , "tips-link": "https://www.notion.so/inmemori/InMemori-Academia-c1bb742564054c4cb53b3dbe44058304"
     , "demo": "Página muestra"
@@ -78,6 +79,15 @@
         , [ "lightbulb", "", "Recuerdale a la familia que el equipo de InMemori los contactará para explicarles el servicio y responder sus dudas." ]
         , [ "lightbulb",  "", "Enseña la página muestra al explicar que es InMemori y como funciona." ]
       ]
+  },
+
+  "app": {
+    "dashboard": {
+      "title": "Dashboard"
+    },
+    "pages": {
+      "title": "Últimas páginas creadas"
+    }
   },
 
   "pages-list": {
